@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>new_siteinspector_4203e</Name>
+  <AppVersion>2023-01-06T16:15:33Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.22122.15.0</CreatedByClientVersion>
+  <MinClientVersion>3.22122.15.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.22122.15","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20221215T151042Z-3.22114.18.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>Site Inspector</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"e1990585-17f1-45d8-aeaa-a0407fdb8519":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1599/1.0.1599.3017/excel/icon.png","dataSources":["SiteInspector"],"dependencies":["f03c13fc-c710-4a17-a9a9-c52d8e90f283"],"dependents":[],"parameterHints":{"f03c13fc-c710-4a17-a9a9-c52d8e90f283":{"value":"fileSource"}},"parameterHintsV2":{"fileSource":{"value":"f03c13fc-c710-4a17-a9a9-c52d8e90f283"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"b!2lE1h8PbS0Wo7SC_3kOjQj53HwWO_dtBvcs75g1yCXZqWn_Uxgx4RI9-WpeMMvBb.01Y6MR7PFIMWJNAUXBJJCJ4OUBN2MA2C4K":{"dataSources":{"SiteInspector":{"tableName":"SiteInspector"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write","providers/PowerPlatform.Governance/Operations/Delete"]},"f03c13fc-c710-4a17-a9a9-c52d8e90f283":{"id":"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness","displayName":"OneDrive for Business","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1546/1.0.1546.2665/onedriveforbusiness/icon.png","dataSources":[],"dependencies":[],"dependents":["e1990585-17f1-45d8-aeaa-a0407fdb8519"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/new_siteinspector_4203e_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/new_siteinspector_4203e_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
